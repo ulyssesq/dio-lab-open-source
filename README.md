@@ -1,3 +1,8 @@
+> 🎓 **Repositório de Exercício Acadêmico / Bootcamp DIO**  
+> Projeto desenvolvido como exercício prático para cumprimento de requisitos e certificação na plataforma **Digital Innovation One (DIO)**.  
+> *Para projetos corporativos de arquitetura e sistemas distribuídos, consulte meu [Perfil Principal](https://github.com/ulyssesq) e o [LinkedIn](https://www.linkedin.com/in/ulysses-queiroz-dev/).*
+
+---
 <h1>
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
